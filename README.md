@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Engn.Cetn
+- 👋 Hi, I’m @Engin.Cetin
 - 👀 I’m interested in programming languages
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on back-end development projects
