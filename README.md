@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Engin.Cetin
-- 👀 I’m interested in programming languages
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in programming languages Python, JavaScript, GO, C#
+- 🌱 I’m currently learning Python, JavaScript and SQL
 - 💞️ I’m looking to collaborate on back-end development projects
 - 📫 How to reach me www.linkedin.com/in/engin-cetin-erdem or e.cetinerdem@gmail.com
 - 😄 Pronouns: He/Him  
