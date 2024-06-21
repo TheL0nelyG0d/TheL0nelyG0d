@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheL0nelyG0d
+- 👋 Hi, I’m @Engn.Cetn
 - 👀 I’m interested in programming languages
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on back-end development projects
